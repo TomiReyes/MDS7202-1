@@ -1,0 +1,7 @@
+# Ignorar todos los archivos .txt y .mp4
+*.txt
+*.mp4
+.DS_Store
+
+# Dejar el archivo 171.txt
+!171.txt
