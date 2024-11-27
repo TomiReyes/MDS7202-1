@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/604516032509818751/467b4aed51fa4c0c8d7b00003202ebc6/artifacts
+end_time: 1732588225411
+entry_point_name: ''
+experiment_id: '604516032509818751'
+lifecycle_stage: active
+run_id: 467b4aed51fa4c0c8d7b00003202ebc6
+run_name: XGBoost_lr_0.40_depth_15
+run_uuid: 467b4aed51fa4c0c8d7b00003202ebc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732588223988
+status: 3
+tags: []
+user_id: tomasreyes

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/140684384250612849/4feeb0ab72a4449aab6e669adad64bd6/artifacts
+end_time: 1732584954588
+entry_point_name: ''
+experiment_id: '140684384250612849'
+lifecycle_stage: active
+run_id: 4feeb0ab72a4449aab6e669adad64bd6
+run_name: clumsy-turtle-147
+run_uuid: 4feeb0ab72a4449aab6e669adad64bd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732584905772
+status: 3
+tags: []
+user_id: tomasreyes

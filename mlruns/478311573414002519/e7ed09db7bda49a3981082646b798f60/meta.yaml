@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/478311573414002519/e7ed09db7bda49a3981082646b798f60/artifacts
+end_time: 1732586240577
+entry_point_name: ''
+experiment_id: '478311573414002519'
+lifecycle_stage: active
+run_id: e7ed09db7bda49a3981082646b798f60
+run_name: dazzling-wren-469
+run_uuid: e7ed09db7bda49a3981082646b798f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732585757146
+status: 3
+tags: []
+user_id: tomasreyes

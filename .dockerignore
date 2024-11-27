@@ -1,0 +1,10 @@
+# Ignorar carpetas y archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.log
+.env
+.vscode/
+*.ipynb
+plots/

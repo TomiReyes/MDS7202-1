@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/248239980107443049/bd52970d6411441cbfac9b6679613aa3/artifacts
+end_time: 1732585238007
+entry_point_name: ''
+experiment_id: '248239980107443049'
+lifecycle_stage: active
+run_id: bd52970d6411441cbfac9b6679613aa3
+run_name: valuable-sponge-172
+run_uuid: bd52970d6411441cbfac9b6679613aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732585188740
+status: 3
+tags: []
+user_id: tomasreyes

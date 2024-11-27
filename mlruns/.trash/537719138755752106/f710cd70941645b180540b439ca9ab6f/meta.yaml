@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/537719138755752106/f710cd70941645b180540b439ca9ab6f/artifacts
+deleted_time: 1732584980623
+end_time: 1732572880947
+entry_point_name: ''
+experiment_id: '537719138755752106'
+lifecycle_stage: deleted
+run_id: f710cd70941645b180540b439ca9ab6f
+run_name: mercurial-bug-91
+run_uuid: f710cd70941645b180540b439ca9ab6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732572656903
+status: 3
+tags: []
+user_id: tomasreyes

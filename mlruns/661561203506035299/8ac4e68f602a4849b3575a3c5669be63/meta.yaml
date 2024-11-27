@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/661561203506035299/8ac4e68f602a4849b3575a3c5669be63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '661561203506035299'
+lifecycle_stage: active
+run_id: 8ac4e68f602a4849b3575a3c5669be63
+run_name: suave-hen-345
+run_uuid: 8ac4e68f602a4849b3575a3c5669be63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732586571264
+status: 1
+tags: []
+user_id: tomasreyes

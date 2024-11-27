@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/414995001682953329/5a6c2744cba749b99aa0cab63255a659/artifacts
+deleted_time: 1732585016544
+end_time: 1732584900183
+entry_point_name: ''
+experiment_id: '414995001682953329'
+lifecycle_stage: deleted
+run_id: 5a6c2744cba749b99aa0cab63255a659
+run_name: bright-wren-705
+run_uuid: 5a6c2744cba749b99aa0cab63255a659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732584877254
+status: 3
+tags: []
+user_id: tomasreyes

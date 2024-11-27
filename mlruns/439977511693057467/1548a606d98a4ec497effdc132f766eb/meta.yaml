@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tomasreyes/Desktop/Cosas%20U%20/Laboratorio%20de%20Programacio%CC%81n%20Cienti%CC%81fica/MDS7202-1/mlruns/439977511693057467/1548a606d98a4ec497effdc132f766eb/artifacts
+end_time: 1732585582460
+entry_point_name: ''
+experiment_id: '439977511693057467'
+lifecycle_stage: active
+run_id: 1548a606d98a4ec497effdc132f766eb
+run_name: omniscient-wolf-734
+run_uuid: 1548a606d98a4ec497effdc132f766eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732585410747
+status: 3
+tags: []
+user_id: tomasreyes
