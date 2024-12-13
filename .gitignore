@@ -9,6 +9,16 @@ __pycache__/
 # C extensions
 *.so
 
+#
+mlruns/
+#
+data/
+#
+imgs/
+#
+plots/
+
+
 # Distribution / packaging
 .Python
 build/
